@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Health-Software-1/static/css/main.cf890fdb.css",
+    "main.js": "/Health-Software-1/static/js/main.332f2754.js",
+    "static/js/453.80d182d7.chunk.js": "/Health-Software-1/static/js/453.80d182d7.chunk.js",
+    "index.html": "/Health-Software-1/index.html",
+    "main.cf890fdb.css.map": "/Health-Software-1/static/css/main.cf890fdb.css.map",
+    "main.332f2754.js.map": "/Health-Software-1/static/js/main.332f2754.js.map",
+    "453.80d182d7.chunk.js.map": "/Health-Software-1/static/js/453.80d182d7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf890fdb.css",
+    "static/js/main.332f2754.js"
+  ]
+}
