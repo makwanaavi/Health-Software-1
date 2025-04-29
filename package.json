@@ -1,6 +1,10 @@
 {
   "name": "health-app",
+<<<<<<< HEAD
   "homepage": "https://makwanaavi.github.io/Health-Software-1-main/",
+=======
+  "homepage": " https://makwanaavi.github.io/Health-Software-1",
+>>>>>>> 80720f209e55d7b6e099d1ddba7af1acb96442a3
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -19,7 +23,11 @@
     "dev": "react-scripts start",
     "build": "react-scripts build",
     "predeploy": "npm run build",
+<<<<<<< HEAD
 "deploy": "gh-pages -d build"
+=======
+    "deploy": "gh-pages -d build"
+>>>>>>> 80720f209e55d7b6e099d1ddba7af1acb96442a3
   },
   "eslintConfig": {
     "extends": [
