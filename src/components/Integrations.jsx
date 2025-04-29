@@ -1,3 +1,8 @@
+import React from "react";
+import FaEpic from "../logo/epic-logo.png";
+import Cerner from "../logo/Cerner-logo.png";
+import Allscripts from "../logo/allscripts-logo.png";
+
 const Integration = () => {
   return (
     <section
@@ -12,35 +17,21 @@ const Integration = () => {
           Seamlessly connects with your EHR, lab systems, and patient portals.
         </p>
 
-        <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-8">
+        <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-8 items-center">
           {/* Epic Logo */}
           <div className="flex justify-center">
-            <img
-              src="epic-logo.png" // Add the actual path or URL of the Epic logo
-              alt="Epic Systems"
-              className="h-12"
-            />
+            <img src={FaEpic} alt="Epic Systems" className="h-16" />
           </div>
 
           {/* Cerner Logo */}
           <div className="flex justify-center">
-            <img
-              src="Cerner-logo.png"
-              alt="Cerner"
-              className="h-12"
-            />
+            <img src={Cerner} alt="Cerner" className="h-12" />
           </div>
 
           {/* Allscripts Logo */}
           <div className="flex justify-center">
-            <img
-              src="allscripts-logo.png" // Add the actual path or URL of the Allscripts logo
-              alt="Allscripts"
-              className="h-12"
-            />
+            <img src={Allscripts} alt="Allscripts" className="h-12" />
           </div>
-
-          {/* Add more logos as needed */}
         </div>
       </div>
     </section>
