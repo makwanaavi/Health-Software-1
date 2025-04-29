@@ -3,7 +3,7 @@ import React from "react";
 const Testimonials = () => {
   const testimonials = [
     {
-      video: '',
+      video: 'https://youtu.be/EsTyD87R3lE',
       name: 'Dr. John Smith',
       title: 'Cardiologist at XYZ Clinic',
       quote: 'This tool has significantly reduced my workload and allowed me to focus more on patient care.',
@@ -13,7 +13,7 @@ const Testimonials = () => {
       }
     },
     {
-      video: 'https://youtu.be/f6ozwnhCpvE',
+      video: 'https://www.youtube.com/watch?v=EsTyD87R3lE',
       name: 'Dr. Emily Johnson',
       title: 'Neurologist at ABC Hospital',
       quote: 'The real-time insights help me make quicker decisions, improving overall patient outcomes.',
