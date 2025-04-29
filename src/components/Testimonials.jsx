@@ -13,7 +13,7 @@ const Testimonials = () => {
       }
     },
     {
-      video: 'https://www.youtube.com/watch?v=EsTyD87R3lE',
+      video: 'https://youtu.be/f6ozwnhCpvE',
       name: 'Dr. Emily Johnson',
       title: 'Neurologist at ABC Hospital',
       quote: 'The real-time insights help me make quicker decisions, improving overall patient outcomes.',
