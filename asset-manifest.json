@@ -1,15 +1,17 @@
 {
   "files": {
     "main.css": "/Health-Software-1/static/css/main.cf890fdb.css",
-    "main.js": "/Health-Software-1/static/js/main.332f2754.js",
+    "main.js": "/Health-Software-1/static/js/main.a66bb67f.js",
     "static/js/453.80d182d7.chunk.js": "/Health-Software-1/static/js/453.80d182d7.chunk.js",
+    "static/media/allscripts-logo.png": "/Health-Software-1/static/media/allscripts-logo.43ca3ef42b7f30502c10.png",
+    "static/media/epic-logo.png": "/Health-Software-1/static/media/epic-logo.da2adb587cc9579c2884.png",
     "index.html": "/Health-Software-1/index.html",
     "main.cf890fdb.css.map": "/Health-Software-1/static/css/main.cf890fdb.css.map",
-    "main.332f2754.js.map": "/Health-Software-1/static/js/main.332f2754.js.map",
+    "main.a66bb67f.js.map": "/Health-Software-1/static/js/main.a66bb67f.js.map",
     "453.80d182d7.chunk.js.map": "/Health-Software-1/static/js/453.80d182d7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cf890fdb.css",
-    "static/js/main.332f2754.js"
+    "static/js/main.a66bb67f.js"
   ]
 }
